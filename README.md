@@ -1,6 +1,6 @@
 # 🧠 CodeAudit — LLM-Powered Code Review Assistant
 
-> A portfolio-grade AI tool that reviews GitHub-style PR diffs and produces structured, actionable feedback powered by Groq's ultra-fast inference API.
+> An intelligent code review assistant that analyzes GitHub Pull Request diffs and delivers structured, actionable engineering feedback powered by Groq's ultra-fast inference API.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
 ![Groq](https://img.shields.io/badge/Groq-LPU%20Inference-orange?style=flat-square)
